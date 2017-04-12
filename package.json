@@ -1,10 +1,10 @@
 {
-    "name": "theme-dark-starry-night",
-    "displayName": "Starry Night",
-    "description": "Starry Night - subtle low contrast dark theme.",
+    "name": "theme-dark-starry-night-nobold",
+    "displayName": "Starry Night Nobold",
+    "description": "Starry Night Nobold - subtle low contrast dark theme.",
     "icon": "images/icon.png",
     "version": "1.0.2",
-    "publisher": "jerry",
+    "publisher": "imanrp",
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -14,13 +14,13 @@
 
     "repository": {
         "type": "git",
-        "url": "https://github.com/JerryGoodwill/vscode-theme-starry-night"
+        "url": "https://github.com/JerryGoodwill/vscode-theme-starry-night-nobold"
     },
 
     "contributes": {
         "themes": [
             {
-                "label": "Starry Night",
+                "label": "Starry Night Nobold",
                 "uiTheme": "vs-dark",
                 "path": "./themes/starry-night-dark-theme.tmTheme"
             }
