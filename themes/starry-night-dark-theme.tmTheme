@@ -65,8 +65,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#7A7A7A</string>
-				<key>fontStyle</key>
-				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -87,8 +85,6 @@
 			<string>variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string> bold  </string>
 				<key>foreground</key>
 				<string>#D9D9D9</string>
 			</dict>
@@ -111,8 +107,6 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#C4C4C4</string>
 			</dict>
@@ -124,8 +118,6 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string> bold</string>
 				<key>foreground</key>
 				<string>#849DAD</string>
 			</dict>
@@ -138,7 +130,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> bold   underline</string>
+				<string>underline</string>
 				<key>foreground</key>
 				<string>#CCCCCC</string>
 			</dict>
@@ -163,8 +155,7 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
+
 				<key>foreground</key>
 				<string>#9E9E9E</string>
 			</dict>
@@ -198,8 +189,6 @@
 			<string>entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#616161</string>
 			</dict>
@@ -224,8 +213,6 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#7F8C94</string>
 			</dict>
@@ -261,8 +248,6 @@
 			<dict>
 				<key>background</key>
 				<string>#380D0D</string>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#853838</string>
 			</dict>
